@@ -1,4 +1,9 @@
-﻿unit UnitUtility;
+{
+  MIT License
+  Copyright (c) 2017 Ahmad Bohloolbandi
+  website: https://github.com/mydeveloping
+}
+ unit UnitUtility;
 {$IFDEF FPC}
 {$codepage utf8}
 {$EndIf}
