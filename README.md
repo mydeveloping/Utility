@@ -1,6 +1,6 @@
 #Utility
 
-This is a unit to help delphi programmers that remove some essential code from new projects.
+This is a unit for helping Delphi programmers integrate some of useful code.
 
 ## Features that exist in this unit:
 - Align controls
